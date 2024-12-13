@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		51F282662D0CC92B00A0840C /* CustomShapeExerciseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F282622D0CC92B00A0840C /* CustomShapeExerciseApp.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		51F2824C2D0CC66C00A0840C /* CustomShapeExercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomShapeExercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		51F282622D0CC92B00A0840C /* CustomShapeExerciseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapeExerciseApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		51F282432D0CC66C00A0840C = {
 			isa = PBXGroup;
 			children = (
+				51F282622D0CC92B00A0840C /* CustomShapeExerciseApp.swift */,
 				51F2824E2D0CC66C00A0840C /* CustomShapeExercise */,
 				51F2824D2D0CC66C00A0840C /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51F282662D0CC92B00A0840C /* CustomShapeExerciseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

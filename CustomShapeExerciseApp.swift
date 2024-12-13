@@ -11,7 +11,7 @@ import SwiftUI
 struct CustomShapeExerciseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShapesExamples()
         }
     }
 }
